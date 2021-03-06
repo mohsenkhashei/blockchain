@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-06T11:15:56.510Z" agent="5.0 (X11)" etag="NMUI1On-RvW7JQCHerV8" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-06T11:33:01.754Z" agent="5.0 (X11)" etag="hYpe05eydCAfCuhoGD_c" version="14.4.4" type="github">
   <diagram id="wwM1JgdG0fEtMVtHdKAY" name="Page-1">
-    <mxGraphModel dx="1736" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="3738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,6 +246,12 @@
         </mxCell>
         <mxCell id="2skkI8ONqYGgut1Zxsqh-87" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;" vertex="1" parent="1">
           <mxGeometry x="620" y="1070" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2skkI8ONqYGgut1Zxsqh-89" value="Longest chain " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="990" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2skkI8ONqYGgut1Zxsqh-90" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;orphan block&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;selfish mining&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="220" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
